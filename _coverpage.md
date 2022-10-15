@@ -4,15 +4,15 @@
   </a>
 </p>
 
-> <middle>南方科技大学飞跃手册</middle> <small>2019-Fall</small>
+> <middle>Libs</middle> <small>  WayNext</small>
 
 <!-- > SUSTech Application Wiki <small>2019-Fall</small> -->
 
-- SUSTech Application Wiki <small>2019-Fall</small>
+- WayNext <small> core-lib</small>
 
 - All Rights Reserved.
 
-[GitHub](https://github.com/xxx/xxx)
-[Get Started](#南方科技大学飞跃手册-2019-Fall)
+[GitHub](https://github.com/waynextclub/Core-Lib)
+[Get Started](#主页)
 
 ![](src/_media/background.jpeg)
