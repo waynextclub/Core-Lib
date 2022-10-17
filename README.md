@@ -26,7 +26,7 @@ The current sources of useful information can be divided into the following cate
 ### WayNext solutions and features:
 
 
-Problem to be solved:
+##### Problem to be solved:
 
 Dispersion of information content, fragmentation, high coupling, information cocoon room, difficulty in reuse, and high update overhead
 
@@ -35,7 +35,7 @@ Dispersion of information content, fragmentation, high coupling, information coc
 
 
 
-Target:
+##### Target:
 
 1. Make information accumulation easier and more specific
 
@@ -54,7 +54,7 @@ The core content bearing unit of Waynext is Lib, and the name is taken from libr
 
 WayNext can comprehensively improve the efficiency of the entire process, lossless information transfer, high decoupling, open source, traceability, high reuse, influence expansion, and knowledge object-oriented.
 
-LIBs life cycle:
+##### LIBs life cycle:
 
 generate : create a LIB
 
@@ -71,7 +71,7 @@ Iteration: Update the LIB to get better
 
 
 
-Early preparations:
+##### Early preparations:
 
 Community + core development
 
@@ -80,7 +80,7 @@ several universities
 Complete basic planning and design, obtain initial users, and improve information circulation. Make the main information base and explore reasonable content structure
 
 
-Mid term:
+##### Mid term:
 
 Community + Activities
 
@@ -90,7 +90,7 @@ Be a good community, expand more users, increase the number of active users to e
 
 
 
-future:
+##### Future:
 
 applied
 
@@ -104,7 +104,7 @@ Use more advanced technology to complete better advanced functions, and provide 
 ### Appendix
 
 
-1. Information classification
+##### 1. Information classification
 
 according to the flow of information
 
@@ -115,7 +115,7 @@ by content
 divided by carrier
 
 
-2. Comparison of old and new methods:
+##### 2. Comparison of old and new methods:
 
 Tradition:
 
@@ -188,7 +188,7 @@ Iterative optimization:
 
 
 
-3. Basic Definition of LIB
+##### 3. Basic Definition of LIB
 
 
 Fundamental contents:
