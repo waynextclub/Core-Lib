@@ -1,127 +1,127 @@
-# 贡献者指南
-一些关于lib的tips，主要包括以下部分：旨在帮助lib核心参与者上手
-- LIB选题范围基础 [[贡献者指南#^78dea1]]
-- 快速初始化及完善路径[[贡献者指南#^538646]]
-- 理想LIB[[贡献者指南#^fc5f4e]]
-- 新工具  & 新思想
-- 保持更新
-- 简单开始
+# Contributor Guidelines
+Some tips about lib, mainly including the following parts: Aims to help lib core participants get started
+- Basics of LIB topic selection [[Contributor Guide#^78dea1]]
+- Quick initialization and improvement path [[Contributor Guide#^538646]]
+- Ideal LIB [[Contributor Guide#^fc5f4e]]
+- New tools & new ideas
+- Keep updating
+- Simple start
 
 
-## LIB选题范围基础
+## LIB topic range basis
 ^78dea1
 
-提出良好的问题选择适当的目标能够为未来奠定良好的基础
+Asking good questions and choosing the right goals creates a good foundation for the future
 
-选题需要符合社区的基本规范，同时具有更受众的LIB可能会发展地更好
+The topic selection needs to conform to the basic norms of the community, and a LIB with a larger audience may develop better
 
-### 推荐目标范围
+### Recommended target range
 ^dc828f
 
-- 可选的生涯规划路线            比如卷躺润摆等
+- Optional career planning route, such as rolling, lying, running, etc.
 
-- 特殊的关键点方向性选择        比如专业选择，就业或升学等
+- Special key point directional choices such as major choice, employment or further education, etc.
 
-- 对于特定学科或知识的学习路径       比如计算机和经济学的学习路径
+- Learning paths for specific subjects or knowledge such as computing and economics learning paths
 
-- 个人发展中实用的方案或方法         比如如何管理精力，避免抑郁，高效获取信息
+- Practical solutions or methods in personal development such as how to manage energy, avoid depression, and access information efficiently
 
-- 有价值，有发展空间的其他内容     比如一些有趣的idea，有价值的问题
+- Other content with value and room for development, such as some interesting ideas and valuable questions
 
 
-## 快速初始化及完善路径
+## Quick initialization and perfect path
 ^538646
 
-类似自身在完成决策及之后所经历的整个过程:
-1. 初始决策信息收集
-2. 执行，获得新经历
-3. 整体进步后的新反思
-4. 总结及回顾
-5. （如果可重复）完善整体路线，找到最优
+Similar to the whole process that I went through after making the decision and after:
+1. Initial decision-making information collection
+2. Execute, gain new experience
+3. New reflection after overall progress
+4. Summary and Review
+5. (if repeatable) refine the overall route to find the optimal
 
-通常这个过程相当漫长，然而注意到实际上同样的路径和感受已经在这世界上重复许多次了。而经历本身也是一种较为缓慢和被动的信息获取，那么在收集足够多的信息的情况下就能快速建立对于整个过程的概念，做出更接近正确的选择。这也正是LIB的方式和waynext思路的价值所在。
+Usually the process is quite lengthy, however notice that in fact the same paths and feelings have been repeated many times in the world. Experience itself is also a relatively slow and passive acquisition of information, so when enough information is collected, a concept of the entire process can be quickly established and a more correct choice can be made. This is also the value of the LIB approach and the waynext idea.
 
-### 通常路线
-1. 基本规划  整理下头绪
-2. 查询大量信息
-3. 筛选有用的信息并整合或堆叠
-4. 再次规划，希望注意到理论上存在的信息，找到基本用例
-5. 补充信息以完善结构，参考指南
-6. 补充用例和环境
-7. 进入LIB发展流程（更多人用变得更好）
+### Normal route
+1. Basic planning and sorting out the clues
+2. Query a lot of information
+3. Filter useful information and integrate or stack
+4. Plan again, hoping to notice the information that exists in theory and find basic use cases
+5. Supplementary information to complete the structure, reference guide
+6. Complementary use cases and environments
+7. Enter the LIB development process (more people will become better)
 
-**给个具体的例子** 构建一个留学相关的lib
-1. 整理出国的整个流程，了解可能选择，以及大致上整体的流程。收集主要的信息站点等
-2. 围绕流程的每个部分详细收集信息，例如留学，工作，发展，签证等问题
-3. 将收集到的信息以及各种过程中的问题整理到初始lib中
-4. 整理出适当的内部结构，此时就可以初步发布征求更多意见
-5. 进一步查询信息or执行or其他渠道反馈
-6. 补充用例（适用者的画像）和环境
-7. 进一步发展
+**Give a specific example** Build a lib related to studying abroad
+1. Organize the entire process of going abroad, understand the possible options, and the overall process in general. Collection of major information sites, etc.
+2. Gather information in detail around each part of the process, such as study abroad, work, development, visa issues, etc.
+3. Organize the collected information and problems in various processes into the initial lib
+4. After sorting out the appropriate internal structure, you can initially release it for more comments
+5. Further query information or execution or feedback from other channels
+6. Supplementary Use Cases (Portraits of Applicable Persons) and Contexts
+7. Further development
 
 
 
-## 理想LIB
+## Ideal LIB
 ^fc5f4e
 
-结构上科学
-方法上符合一般程序      （不通过一般程序获得也可，但是需要一般方式可以获得）
-信息收集充分    统计层面有效
-有大量用例及检测             更多的使用及参与
+structural science
+The method conforms to the general procedure (it is also possible to obtain it without the general procedure, but it needs to be obtained by the general method)
+Sufficient information collection and effective statistical level
+Lots of use cases and testing More usage and engagement
 
-在达成以上条件同时趋于稳定时，即为理想
-
-
-理想lib的价值
-可以很高效地完成信息覆盖 
-降低成本
-更易于进一步提升
-
-理想lib的缺陷
-不太容易达成
+When the above conditions are met and tend to be stable, it is ideal
 
 
+ideal lib value
+Information coverage can be completed efficiently
+cut costs
+Easier to further improve
 
-
-## 新工具  & 新思想
-
-逐步引入更多的有价值和有帮助的新思想和新工具对LIB的发展具有很大意义
-
-#### 两方面
-- 关注新思想新技术新工具的出现
-- 在LIB中尝试实用并获得反馈，逐步进化
-
-#### 例如：
-- 双向链接的思想               从文本中构建关联
-- 什么是完善的项目           促进开箱即用，适当的项目逻辑结构
-- 游戏化——状态平衡管理          将信息与方案变得更加可执行
-- 其他有用的补充
-
-
-
-## 保持更新
-
-在日常使用中更新，不断整理思路
-
-可以写更好的协作指南，找到合作者，与其他参与者保持互动
-
-配合waynext的其他活动，如本地活动，线上邀请等活动中找到新灵感
-
-
-
-## 简单开始
-
-不要纠结太多，立刻从信息收集和堆叠开始。开始之后经常思考和收集就能更好
-
-多尝试多重复。还可以多多练习
-
-收集核心idea，可以从其他地方或者领域尝试迁移
+Defects of ideal lib
+not easy to achieve
 
 
 
 
+## New tools & new ideas
+
+Gradually introducing more valuable and helpful new ideas and new tools is of great significance to the development of LIB
+
+#### Both sides
+- Pay attention to the emergence of new ideas, new technologies and new tools
+- Try practicality in LIB and get feedback, evolve gradually
+
+#### E.g:
+- The idea of ​​bidirectional links to build associations from text
+- What is a well-rounded project Facilitates out-of-the-box, proper project logic structure
+- Gamification - state balance management to make information and solutions more executable
+- other useful additions
 
 
-## 收集一下编写过程中遇到的问题
 
-目前各方面基础建设都还不够好，欢迎提出更多问题，一起寻求解决~
+## Keep updating
+
+Update in daily use, and constantly organize ideas
+
+Can write better collaboration guides, find collaborators, and stay engaged with other participants
+
+Cooperate with other activities of waynext, such as local activities, online invitations and other activities to find new inspiration
+
+
+
+## Simple start
+
+Don't get too hung up on it, start right away with information gathering and stacking. Better to think and collect often after you start
+
+Try and repeat. You can also practice more
+
+Collect core ideas, you can try to migrate from other places or fields
+
+
+
+
+
+
+## Collect the problems encountered during the writing process
+
+At present, the infrastructure in all aspects is not good enough. Welcome to ask more questions and seek solutions together~

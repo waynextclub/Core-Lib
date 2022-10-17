@@ -3,16 +3,15 @@
 
   - [About WayNext](README.md)
 
-  - [Basic Guide](docs/en-guide/README.md)
+  - [Basic Guide](docs/en-guide/en-basic.md)
 
   - [Guide for Contributing](docs/en-guide/contribute.md)
 
   - [English Examples](docs/en-examples/README.md)
 
-  - [Story](docs/others/cn-story.md)
+  - [Story](docs/others/en-story.md)
 
-  - [Feature](odocs/thers/cn-feature.md)
-
+  - [Feature](odocs/thers/en-feature.md)
 
   - [Chinese Home Page](docs/others/home.md)
 
