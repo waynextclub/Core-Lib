@@ -27,9 +27,9 @@ Mainly include the following parts
 
 waynext.library hopes to collect effective decision support information to form several solutions and gradually optimize through tests and problems brought by more users to form some valuable LIBs (information bases). Covers the main path directions and brings efficient information support to users.
 
-<img src="./resources/插图1裁剪.jpg" alt="LIB进化" style="zoom:50%;" />
+<img src="./resources/en插图1裁剪.png" alt="LIB进化" style="zoom:50%;" />
 
-<img src="./resources/插图2裁剪.jpg" alt="模式对比" style="zoom:40%;" />
+<img src="./resources/en插图2裁剪.png" alt="模式对比" style="zoom:40%;" />
 
 See: [waynext core idea](https://github.com/waynextclub/basicguide/blob/master/waynext%E6%A0%B8%E5%BF%83%E6%80%9D%E8%B7%AF.md)
 
