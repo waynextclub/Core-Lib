@@ -1,3 +1,6 @@
+This document is translated by machine, which has not been verified yet.
+
+
 # Contributor Guidelines
 Some tips about lib, mainly including the following parts: Aims to help lib core participants get started
 - Basics of LIB topic selection [[Contributor Guide#^78dea1]]

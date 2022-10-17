@@ -1,15 +1,16 @@
-This document is translated by machine, which has not been verified yet.
 
 # About WayNext
 
 ### Overview:
 
-In modern society, effective information plays a very important role in personal development. In the daily face of many decision-making processes, it is inseparable from effective information as a reference. When individuals obtain information from the outside world, they will face problems such as information sources, information aggregation and screening, and information effectiveness. Most of the mainstream information dissemination software on the Internet is distributed from top to bottom, and most collaborative office software cannot meet the needs of most individual users. WayNext product is an open source platform for content (not limited to text) Internet dissemination based on the git structure of computer software. Through the method of user-generated content, it is mainly aimed at young Chinese Internet users at home and abroad, so as to achieve information traceability, collaboration, and information condensation, etc. Features, to solve future planning problems such as further education and employment in real life.
+In modern society, effective information plays a very important role in personal development. In the daily face of many decision-making processes, it is inseparable from effective information as a reference. When individuals obtain information from the outside world, they will face problems such as information sources, information aggregation and screening, and information effectiveness. Most of the mainstream information dissemination software on the Internet is distributed from top to bottom, and most collaborative office software cannot meet the needs of most individual users. WayNext product is an open source platform for content (not limited to text) dissemination based on the git structure. Through the method of content by user-generating, it is mainly aimed at young Chinese Internet users (domestic and abroad), so as to achieve information traceability, collaboration, and information condensation functions, which to solve future planning problems such as further education and employment in real life.
 
 
 ### background:
 
-At present, the impact of China's domestic new crown epidemic policy on the economy is very significant. Moreover, along with the cooling of the real estate industry, the slowdown of economic development, the widening gap between the rich and the poor, the dependence on investment policy paths, the K-shaped recovery is obvious, the demand is insufficient, the internal circulation is blocked, and the external environment changes drastically. The continuously low marriage rate and birth rate, the unbalanced population structure, the surge in employment pressure and other issues are particularly important for the young generation in China, and future planning is particularly important. Refugee crisis abroad, Asian discrimination, economic recession under the influence of the epidemic, trade wars, countries turning to the right, social strata torn apart, technological progress is flattened, globalization is hindered, political correctness prevails, and Chinese abroad are also facing many questions.
+At present, the impact of China's domestic COVID-19 policy on the economy is very significant. Moreover, along with many social problem like the cooling of the real estate industry, the slowdown of economic development, the widening gap between the rich and the poor, the continuously low marriage rate and birth rate, and the unbalanced population structure, the surge in employment pressure and other issues are particularly important and become more difficult for the young generation in China, which proves future planning is particularly important. 
+
+At present, the Internet has improved the efficiency of information flow, but this kind of communication is still based on traditional letter-style communication (whether instant messaging software or post-style software). When people want to get some information, they still can't get the most comprehensive information they want at the fastest speed.
 
 
 ### Existing information access methods:
@@ -18,9 +19,9 @@ The ideal purpose is to be able to obtain all the decision-making knowledge base
 
 The current sources of useful information can be divided into the following categories:
 
-1. Single-line peer-to-peer communication: for example, obtaining information through conversations between well-known people, and obtaining distributed information through organizations (such as free schools, paid third-party intermediaries, etc.). Such mode information acquisition efficiency is general, and the information content acquisition is relatively passive.
+1. Single-line peer-to-peer communication: for example, obtaining information through conversations between well-known people, and obtaining distributed information through organizations (such as schools, paid third-party intermediaries, etc.). Such mode information acquisition efficiency is general, and the information content acquisition is relatively passive.
 
-2. Searching for information from multi-user systems: from various forums and Q&A applications, such as Zhihu, Quora, various forums (such as an acre of land for international students), and even groups of instant messaging software (such as WeChat , QQ group).
+2. Searching for information from multi-user systems: from various forums and Q&A applications, such as Zhihu, Quora, various forums (such as 1point3acres for international students), and even groups of instant messaging software (such as WeChat , QQ group).
 
 
 ### WayNext solutions and features:
@@ -41,15 +42,15 @@ Dispersion of information content, fragmentation, high coupling, information coc
 
 2. Large-scale elimination of distribution difficulties and island effect
 
-3. The source changes direction and reconstructs the flow of information
+3. Changes information flow direction and reconstructs the flow of information
 
 4. Establish appropriate mechanisms to integrate information and its derivatives
 
 5. Reduce repetitive wheel building
 
-In the early stage, WayNext will use github as the content carrier to attract users and create content through groups, its own forums, audio and video, etc., gradually transforming from a centralized to a decentralized process. software ecology.
+In the early stage, WayNext will use github as the content carrier to attract users and create content through groups, own forums, audio and video, etc., gradually transforming from a centralized to a decentralized information system. Then develop a new software ecology.
 
-The core content bearing unit of Waynext is Lib, and the name is taken from library in the field of software development, and also from the word library. See Appendix 3 for the details of Lib.
+The core content unit of Waynext is Lib, and the name is taken from library in the field of software development, and also from the word library. See Appendix 3 for the details of Lib.
 
 
 WayNext can comprehensively improve the efficiency of the entire process, lossless information transfer, high decoupling, open source, traceability, high reuse, influence expansion, and knowledge object-oriented.
@@ -71,16 +72,16 @@ Iteration: Update the LIB to get better
 
 
 
-##### Early preparations:
+##### Early Preparations:
 
-Community + core development
+Community + Core development
 
 several universities
 
 Complete basic planning and design, obtain initial users, and improve information circulation. Make the main information base and explore reasonable content structure
 
 
-##### Mid term:
+##### Mid Term:
 
 Community + Activities
 
@@ -92,7 +93,7 @@ Be a good community, expand more users, increase the number of active users to e
 
 ##### Future:
 
-applied
+app building
 
 Provide more efficient functions for target groups
 

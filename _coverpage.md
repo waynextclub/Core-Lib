@@ -13,7 +13,7 @@
 - All Rights Reserved.
 
 [GitHub](https://github.com/waynextclub/Core-Lib)
-[Get Started](#Basic guide)
+[Get Started](###Overview)
 
 <!-- ![](src/_media/background.jpeg)
  -->

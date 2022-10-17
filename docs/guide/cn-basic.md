@@ -23,9 +23,9 @@
 
 waynext.library 希望收集有效的决策支持信息构成数个方案并通过更多使用者带来的测试和问题，逐步优化，形成一些有价值的LIB（信息库）。覆盖主要的路径方向，为使用者带来高效的信息支持。
 
-<img src="./插图\插图1裁剪.jpg" alt="LIB进化" style="zoom:50%;" />
+<img src="./resources/插图1裁剪.jpg" alt="LIB进化" style="zoom:50%;" />
 
-<img src="./插图\插图2裁剪.jpg" alt="模式对比" style="zoom:40%;" />
+<img src="./resources/插图2裁剪.jpg" alt="模式对比" style="zoom:40%;" />
 
 详见：[waynext核心思路](./waynext核心思路.md)
 
