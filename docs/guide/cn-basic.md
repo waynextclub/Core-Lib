@@ -1,9 +1,7 @@
-
-
 - [贡献指南](docs/guide/contribute.md)
 
 
-- [可供参考的idea](docs/guide/diea.md)
+- [可供参考的Idea](docs/guide/idea.md)
 
 
 # 基本指南

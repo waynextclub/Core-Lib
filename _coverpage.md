@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lib.waynext.club">
-    <img alt="docsify" src="resources/waynext.png" height="200">
+    <img alt="docsify" src="resources/waynext.png" height="87">
   </a>
 </p>
 

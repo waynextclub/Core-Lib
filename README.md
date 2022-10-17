@@ -1,225 +1,219 @@
-# 关于WayNext
+This document is translated by machine, which has not been verified yet.
 
-### 概述：
+# About WayNext
 
-现代社会中，有效信息对于个人发展起到非常重要的作用。在日常面临许多决策过程中离不开有效信息作为参考。个人在向外界获取信息时会面临着信息来源、信息汇总筛选、信息实效性等问题。互联网主流信息传播软件大多都是自上而下分发形式的，并且大多协同办公软件也无法满足大多个人用户的需求。WayNext产品是一种基于计算机软件git结构的内容（不限于文本）互联网传播开源平台，通过用户生成内容的方式，主要面向海内外中国青年互联网用户，以实现信息可追溯、可协同、信息凝练等特性，解决现实生活中升学、就业等未来规划问题。
+### Overview:
 
+In modern society, effective information plays a very important role in personal development. In the daily face of many decision-making processes, it is inseparable from effective information as a reference. When individuals obtain information from the outside world, they will face problems such as information sources, information aggregation and screening, and information effectiveness. Most of the mainstream information dissemination software on the Internet is distributed from top to bottom, and most collaborative office software cannot meet the needs of most individual users. WayNext product is an open source platform for content (not limited to text) Internet dissemination based on the git structure of computer software. Through the method of user-generated content, it is mainly aimed at young Chinese Internet users at home and abroad, so as to achieve information traceability, collaboration, and information condensation, etc. Features, to solve future planning problems such as further education and employment in real life.
 
-### 背景：
 
-目前中国国内新冠疫情政策对于经济的影响十分显著。而且伴随着房地产行业降温，经济发展降速，贫富差距加大，投资政策路径依赖，K型复苏明显，需求不足，内循环受阻，外部环境激烈变化。持续走低的结婚率出生率，失衡的人口结构，暴增的就业压等问题对于国内青年一代来说，未来规划显得尤为重要。国外难民危机，亚裔歧视，疫情影响下的经济衰退，贸易战，各国向右转，社会阶层撕裂，科技进步趋于平缓，全球化进程受阻，政治正确大行其道，在国外的华人也面临着诸多问题。
+### background:
 
+At present, the impact of China's domestic new crown epidemic policy on the economy is very significant. Moreover, along with the cooling of the real estate industry, the slowdown of economic development, the widening gap between the rich and the poor, the dependence on investment policy paths, the K-shaped recovery is obvious, the demand is insufficient, the internal circulation is blocked, and the external environment changes drastically. The continuously low marriage rate and birth rate, the unbalanced population structure, the surge in employment pressure and other issues are particularly important for the young generation in China, and future planning is particularly important. Refugee crisis abroad, Asian discrimination, economic recession under the influence of the epidemic, trade wars, countries turning to the right, social strata torn apart, technological progress is flattened, globalization is hindered, political correctness prevails, and Chinese abroad are also facing many questions.
 
-### 现有的信息获取方式：
 
-最理想的目的是能够基于所有信息，获取全部决策知识，完成理论上的最优决策。
+### Existing information access methods:
 
-目前有用信息的来源可以分为以下几种：
+The ideal purpose is to be able to obtain all the decision-making knowledge based on all the information and complete the theoretically optimal decision.
 
-1. 单线的点对点传播：例如从熟知的人之间通过交谈获取信息，通过组织机构（例如免费的学校、付费的第三方中介等）去获得分发的信息。这样的模式信息获取效率一般，而且信息内容获得较为被动。
+The current sources of useful information can be divided into the following categories:
 
-2. 向多用户系统搜寻信息：来自于各种论坛以及问答式应用程序，例如知乎，Quora，各种论坛（例如留学生的一亩三分地），甚至即时通讯软件的群组（例如微信、QQ群组）。
+1. Single-line peer-to-peer communication: for example, obtaining information through conversations between well-known people, and obtaining distributed information through organizations (such as free schools, paid third-party intermediaries, etc.). Such mode information acquisition efficiency is general, and the information content acquisition is relatively passive.
 
+2. Searching for information from multi-user systems: from various forums and Q&A applications, such as Zhihu, Quora, various forums (such as an acre of land for international students), and even groups of instant messaging software (such as WeChat , QQ group).
 
-### WayNext的解决方案及特性：
 
+### WayNext solutions and features:
 
-要解决的问题：
 
-信息内容分散、碎片化、耦合过高、信息茧房、复用困难、更新开销高等问题
+Problem to be solved:
 
+Dispersion of information content, fragmentation, high coupling, information cocoon room, difficulty in reuse, and high update overhead
 
 
 
 
 
-目标：
 
-1. 使信息积累变得更轻松，更具体
+Target:
 
-2. 大规模削除分发困难，孤岛效应
+1. Make information accumulation easier and more specific
 
-3. 源头改变方向，重构信息流
+2. Large-scale elimination of distribution difficulties and island effect
 
-4. 建立适当的机制整合信息及其衍生物
+3. The source changes direction and reconstructs the flow of information
 
-5. 减少重复造轮子
+4. Establish appropriate mechanisms to integrate information and its derivatives
 
-WayNext初期将使用github作为内容承载体，通过群组、自有论坛以及音视频等形式，去招揽用户并且创作内容，逐渐从中心化到去中心化过程转变，同时在初期完全搭建搭建自己的全套软件生态。
+5. Reduce repetitive wheel building
 
-Waynext的核心内容承载单位为Lib，名字取自软件开发领域的library，也取自图书馆一词。Lib的详细内容见附录3。
+In the early stage, WayNext will use github as the content carrier to attract users and create content through groups, its own forums, audio and video, etc., gradually transforming from a centralized to a decentralized process. software ecology.
 
+The core content bearing unit of Waynext is Lib, and the name is taken from library in the field of software development, and also from the word library. See Appendix 3 for the details of Lib.
 
-WayNext可以全面提升整个流程效率，无损信息传递，高解耦，开源，可查溯，高复用，影响力扩张，面向知识对象。
 
-LIBs生命周期：
+WayNext can comprehensively improve the efficiency of the entire process, lossless information transfer, high decoupling, open source, traceability, high reuse, influence expansion, and knowledge object-oriented.
 
-生成        ：创建一个LIB
+LIBs life cycle:
 
-执行       ： 更多人使用
+generate : create a LIB
 
-反馈       ： 反馈并修改LIB
+Execution: more people use
 
-迭代       ： 更新LIB以变得更好
+Feedback: Feedback and modify the LIB
 
+Iteration: Update the LIB to get better
 
 
 
-### 运行规划：
 
+### Running plan:
 
 
-早期筹备：
 
-社群+内核发展
+Early preparations:
 
-数个大学
+Community + core development
 
-完成基础的规划与设计，获得初始用户，完善信息循环。制作主要的信息库，并探索合理的内容结构
+several universities
 
+Complete basic planning and design, obtain initial users, and improve information circulation. Make the main information base and explore reasonable content structure
 
-中期：
 
-社区化+活动
+Mid term:
 
-更高覆盖率
+Community + Activities
 
-做一个好的社区，拓展更多用户，提升活跃用户数量以保证内容可靠性，尝试扩展用户的范围。提升内容的有效性和覆盖率
+higher coverage
 
+Be a good community, expand more users, increase the number of active users to ensure the reliability of content, and try to expand the scope of users. Improve content effectiveness and coverage
 
 
-未来：
 
-应用化
+future:
 
-对于目标人群提供更高效的功能
+applied
 
-使用更多先进技术完成更好的先进功能，向需要信息的人提供最优方案
+Provide more efficient functions for target groups
 
+Use more advanced technology to complete better advanced functions, and provide the best solution to those who need information
 
 
 
-### 附录
 
+### Appendix
 
-1. 信息分类
 
-以信息流向分
+1. Information classification
 
-以场景分
+according to the flow of information
 
-以内容分
+by scene
 
-以载体分
+by content
 
+divided by carrier
 
-2. 新旧方式对比：
 
-传统：
+2. Comparison of old and new methods:
 
-查询：
+Tradition:
 
-- 确定关键词
+Inquire:
 
-- 使用搜索引擎查询
+- Identify keywords
 
-- 信息整合
+- Use search engine query
 
-- 获得整个结构化的目标信息
+- Information Integration
 
-讨论：
+- Get whole structured target information
 
-- 要求近似的知识背景
+discuss:
 
-- 同步基础信息
+- Requires approximate knowledge background
 
-- 讨论并得出意见
+- Sync basic information
 
-- 进一步修改或更新
+- Discuss and draw opinions
 
-复用及协作：
+- further modifications or updates
 
-- 确定目标
+Reuse and Collaborate:
 
-- 逐一提取步骤
+- Determine the target
 
-- 重新尝试并重现
+- Extract steps one by one
 
-- 做出更新和修改
+- try again and reproduce
 
-- 整合及大量讨论
+- Make updates and modifications
 
-- 发布
+- Integration and lots of discussion
 
-迭代优化：
+- Post
 
-- 大量查询以获得当前SOTA版本
+Iterative optimization:
 
-- 重新尝试并重新重现
+- Lots of queries to get the current SOTA version
 
-- 做出更新和修改
+- try again and reproduce again
 
-- 公开发布以更新共识
+- Make updates and modifications
 
-WayNext：
+- Public release to update consensus
 
-查询：
+WayNext:
 
-- 直接获取整个结构化的目标信息
-- 未来添加图搜索等功能
+Inquire:
 
-讨论：
+- Direct access to the entire structured target information
+- Functions such as graph search will be added in the future
 
-- 直接在问题和提交中讨论
-- 有价值的讨论将长期被保存
+discuss:
 
+- Discuss directly in issues and commits
+- Valuable discussions will be saved for a long time
 
-复用及协作：
 
-- 使用fork直接获取过去的工作
-- 多人或组织均可有效在平台内协作编辑提交
+Reuse and Collaborate:
 
-迭代优化：
-- 使用版本发布功能直接标记每一次进展
-- 通过合并功能快速同步
+- Use fork to get past jobs directly
+- Multiple people or organizations can effectively collaborate and edit submissions within the platform
 
+Iterative optimization:
+- Mark every progress directly with the release feature
+- Quick sync with merge function
 
 
 
-3. LIB的基本定义
 
+3. Basic Definition of LIB
 
-基本内容：
 
-- 目标： LIB应该有一个目标 回答一个问题、描述一跳路径、实现一个目标等
-- 背景： 应该对已经有的信息和依赖等做一个整理
-- 内容主体： 符合社区的基本要求的主要文本，基于目标构建
-- 实践&测试： 实现的实例，作为实际的检验。应该逐步丰富
+Fundamental contents:
 
-几个有助于提升LIB质量的idea：
+- Goal: LIB should have a goal to answer a question, describe a one-hop path, achieve a goal, etc.
+- Background: The existing information and dependencies should be sorted out
+- Body of content: The main text that meets the basic requirements of the community, built on the goal
+- Practice & Testing: Realized examples, as practical tests. should be gradually enriched
 
-- 更高覆盖 更高比例地整合当前已经可以收集到的信息
+Several ideas that help improve the quality of LIB:
 
-- 适当的结构 适当的逻辑结构。方便阅读，同时方便协作
+- Higher coverage A higher proportion of the information that can be collected so far
 
-- 方向与规划 未来LIB的发展方向，可以包括问题，目标，进展预计等，能够有助于协作
+- Appropriate structure Appropriate logical structure. Easy to read and easy to collaborate at the same time
 
-- 测试与反馈 在实践中检验这些内容，并且得到反馈，逐步更新
+- Direction and planning The future development direction of LIB, which can include issues, goals, progress estimates, etc., which can help collaboration
 
-格式及形式：
+- Testing and Feedback Test these in practice and get feedback to update them step by step
 
-- LIB目前使用GitHub的仓库进行实现。以文本为主要内容，建议进行更适当的引用
+Format and Form:
 
-- 文件建议使用markdown 简单且便于编辑
+- LIB is currently implemented using the GitHub repository. Text is the main content, more appropriate citations are suggested
 
-- readme.md作为主要的内容入口，应当包含整体内容的介绍
+- Documents are recommended to use markdown for simplicity and ease of editing
 
-- 推荐：使用obsidian编辑器编辑项目，可以使用双向链接等功能
+- readme.md, as the main content entry, should contain an introduction to the overall content
 
-
-
-
-
-
-
-
+- Recommended: Edit the project with the obsidian editor, you can use features such as two-way linking
