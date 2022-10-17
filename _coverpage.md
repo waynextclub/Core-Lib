@@ -15,4 +15,5 @@
 [GitHub](https://github.com/waynextclub/Core-Lib)
 [Get Started](#主页)
 
-![](src/_media/background.jpeg)
+<!-- ![](src/_media/background.jpeg)
+ -->
